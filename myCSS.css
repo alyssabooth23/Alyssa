@@ -18,6 +18,7 @@ a:hover, a:active, a:focus {
 	background: #222222;
 }
 .container {
+	background:#71AB4B
 	width: 960px;
 	margin: 0 auto;
 }
